@@ -141,6 +141,17 @@ The database contains the following fields:
 - `phone` — Student phone number
 - `course` — Student course
 
+## Project Screenshots
+
+### 1. API Documentation
+![Swagger API Documentation](screenshots/Swagger-docs.png)
+
+### 2. View Student Records
+![Student API Response](screenshots/student-api.png)
+
+### 3. SQLite Database
+![SQLite Student Table](screenshots/sqllite-database.png)
+
 ## Error Handling
 
 The API handles common errors:
